@@ -82,6 +82,3 @@ The project is structured as a full-stack monorepo:
 - `recommendations`: History of AI-generated financial advice and models used.
 - `budgets`: Category-specific spending limits and tracking.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
